@@ -1,10 +1,15 @@
 {
-  "name": "soberwp/models",
+  "name": "adrianmomorales/models-sage9-php8",
   "type": "wordpress-muplugin",
   "license": "MIT",
-  "description": "WordPress plugin to create custom post types and taxonomies using JSON, YAML or PHP files.",
+  "description": "WordPress plugin to create custom post types and taxonomies using JSON, YAML or PHP files. Updated to work with Sage 9 and PHP 8",
   "homepage": "https://github.com/soberwp",
   "authors": [
+    {
+      "name": "Adrian Morales",
+      "email": "info@bufo.studio",
+      "homepage": "https://github.com/adrianmomorales"
+    }.
     {
       "name": "Darren Jacoby",
       "email": "darren@jacoby.co.za",
